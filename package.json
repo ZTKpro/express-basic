@@ -1,0 +1,24 @@
+{
+  "name": "express-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZTKpro/express-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZTKpro/express-basic/issues"
+  },
+  "homepage": "https://github.com/ZTKpro/express-basic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
